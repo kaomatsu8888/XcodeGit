@@ -14,7 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("初めてのコミット")
     }
-
+    @IBAction func Buttun(_ sender: Any) {
+    }
+    
 
 }
 
